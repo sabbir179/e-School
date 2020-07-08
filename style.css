@@ -19,6 +19,14 @@ header img{
     border: white;
 }
 
+#green-btn:hover, #card-green-btn:hover{
+    background-color:white;
+    padding: 8px 25px;
+    border-radius: 20px;
+    color: #21B573;
+    margin-top: -5px;
+    border: 1px solid #21B573;
+}
 .upper-sec{
     background-color:  #f3fef1;
 
@@ -151,7 +159,9 @@ footer{
 }
 
 
-
+.social{
+    padding-top: 20px;
+}
 
 @media (min-width: 276px) { 
     .banner h1{
