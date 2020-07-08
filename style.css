@@ -28,7 +28,7 @@ header img{
     border: 1px solid #21B573;
 }
 .upper-sec{
-    background-color:  #f3fef1;
+    background-color:  #F0FFF0;
 
 }
 .banner img{
@@ -144,6 +144,13 @@ header img{
 
 .carousel-indicators{
 margin-bottom: -50px;
+}
+
+.social{
+    padding-bottom: 5px;
+}
+#social-icon{
+    padding: 10px;
 }
 footer{
    
