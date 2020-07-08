@@ -69,18 +69,25 @@ header img{
    border-radius: 10px;
     padding: 40px 0px;
 }
+
+
+
 .green-bg{
     background-color: #F8FFFB;
+}
+
+.green-bg:hover{
+    background-color: #FFFFFF;
+    border: 1px solid #F8FFFB;
+    box-shadow: 10px 10px  50px #E8E8E8;
 }
 .key-features-sec, .online-course-sec{
     margin-top: 40px;
     margin-bottom: 80px;
     
 }
-.box-shadow{
-   box-shadow: 10px 10px  50px #E8E8E8;
 
-}
+
 #card-green-btn{
     font-size: small;
     padding: 5px 20px;
